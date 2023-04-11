@@ -1,4 +1,4 @@
 # lab01-Info3
 
-neues Test - lala
+We rebased this branch
 
